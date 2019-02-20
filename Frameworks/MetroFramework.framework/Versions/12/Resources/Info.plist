@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDisplayName</key>
+	<string>MetroFramework</string>
+	<key>CFBundleExecutable</key>
+	<string>MetroFramework</string>
+	<key>CFBundleGetInfoString</key>
+	<string>12.3.0 (110627), © 2007 Microsoft Corporation. All rights reserved.</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.microsoft.metrocore_framework</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>MetroFramework</string>
+	<key>CFBundlePackageType</key>
+	<string>FMWK</string>
+	<key>CFBundleShortVersionString</key>
+	<string>12.3.0</string>
+	<key>CFBundleSignature</key>
+	<string>METR</string>
+	<key>CFBundleVersion</key>
+	<string>12.3.0</string>
+	<key>LSHasLocalizedDisplayName</key>
+	<true/>
+	<key>LSRequiresNativeExecution</key>
+	<true/>
+	<key>MicrosoftBuildNumber</key>
+	<string>110627</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>© 2007 Microsoft Corporation. All rights reserved.</string>
+</dict>
+</plist>
